@@ -6,5 +6,5 @@ And another good thins about this.
 
 I CHANGE SOME FILE FOR MERGING PROCESS
 
-I make another change in foo_feature
+I make THIS CHANGE IN MASTER another change in foo_feature
 
