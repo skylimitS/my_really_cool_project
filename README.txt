@@ -16,9 +16,9 @@ I make another SERIOUSLY change in THIS FOO_FEATURE foo_feature
 
 I make another change in THIS FOO_FEATURE foo_feature
 
-<<<<<<< HEAD
+
 IT'S WORKING?????
 
-=======
+
 222222IT'S WORKING?????
->>>>>>> foo_feature
+
