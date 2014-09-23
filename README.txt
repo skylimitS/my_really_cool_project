@@ -10,5 +10,5 @@ I CHANGE SOME FILE FOR MERGING PROCESS
 I make THIS CHANGE IN MASTER another change in foo_feature
 
 
-I make another change in THIS FOO_FEATURE foo_feature
+I make another SERIOUSLY change in THIS FOO_FEATURE foo_feature
 
